@@ -13,8 +13,8 @@ internal class ApplicationDbContextFactory
         .AddJsonFile("appsettings.json")
         .Build();
         var builder = new DbContextOptionsBuilder<AppDbContext>();
-        var connectionString = configuration
-        .GetConnectionString("DefaultConnection");
+    var connectionString = configuration
+    .GetConnectionString("default");
         builder.UseSqlite(connectionString);
         return new AppDbContext(builder.Options);
     }

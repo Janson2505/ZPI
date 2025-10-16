@@ -147,3 +147,4 @@ C:\C#\ZPI\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
 C:\C#\ZPI\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
 C:\C#\ZPI\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
 C:\C#\ZPI\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
+c:\C#\ZPI\ConsoleApp\obj\Debug\net9.0\ConsoleApp.sourcelink.json

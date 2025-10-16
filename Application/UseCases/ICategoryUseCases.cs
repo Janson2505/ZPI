@@ -4,4 +4,5 @@ public interface ICategoryUseCases
 {
     AddCategoryResult AddCategory(AddCategoryDTO addCategoryDTO);
     void RemoveCategory(int categoryId);
+    void UpdateCategory(UpdateCategoryDTO updateCategoryDTO);
 }

@@ -15,3 +15,4 @@ C:\C#\ZPI\Data\obj\Debug\net9.0\refint\Data.dll
 C:\C#\ZPI\Data\obj\Debug\net9.0\Data.pdb
 C:\C#\ZPI\Data\obj\Debug\net9.0\Data.genruntimeconfig.cache
 C:\C#\ZPI\Data\obj\Debug\net9.0\ref\Data.dll
+c:\C#\ZPI\Data\obj\Debug\net9.0\Data.sourcelink.json

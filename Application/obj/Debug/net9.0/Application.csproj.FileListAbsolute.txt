@@ -9,3 +9,4 @@ C:\C#\ZPI\Application\obj\Debug\net9.0\Application.dll
 C:\C#\ZPI\Application\obj\Debug\net9.0\refint\Application.dll
 C:\C#\ZPI\Application\obj\Debug\net9.0\Application.pdb
 C:\C#\ZPI\Application\obj\Debug\net9.0\ref\Application.dll
+c:\C#\ZPI\Application\obj\Debug\net9.0\Application.sourcelink.json

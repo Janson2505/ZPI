@@ -5,6 +5,19 @@ public class Category(string name, int id)
         : this(name, 0)
     {
     }
-    public int Id {get; private set;} = id;
-    public string Name {get; private set;} = name;
+
+    public int Id { get; private set; } = id;
+    public string Name { get; private set; } = Validate(name);
+
+    public void Rename(string newName)
+    {
+        Name = Validate(newName);
+    }
+
+    private static string Validate(string value)
+    {
+        if (string.IsNullOrWhiteSpace(value))
+            throw new ArgumentException(nameof(value));
+        return value.Trim();
+    }
 }
