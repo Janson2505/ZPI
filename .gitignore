@@ -20,3 +20,34 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+ 
+### .NET / C# ###
+# Build output
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# Logs
+logs/
+*.log
+
+# SQLite databases
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+
+# EF Core migrations design-time files
+**/Migrations/**/obj/
+
+# OS junk
+Thumbs.db
+.DS_Store
